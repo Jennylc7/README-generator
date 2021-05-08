@@ -24,7 +24,6 @@ npm run test
 
 👤 **Jennifer Clayton**
 
-* Website: www.thepilatesnut.com
 * Github: [@Jennylc7](https://github.com/Jennylc7)
 
 ## 🤝 Contributing
