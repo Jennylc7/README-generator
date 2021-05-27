@@ -24,11 +24,15 @@ A responsive Readme generator
 
 To install necessary dependencies, run the following command:
 
+<<<<<<< HEAD
 ```
 npm i
 ```
 
 ## Usage
+=======
+* Github: [@Jennylc7](https://github.com/Jennylc7)
+>>>>>>> 1c62175e18e712ed0672c8aba6e0e3571abefdc1
 
 To type in answers at the prompts
 
@@ -52,3 +56,8 @@ npm test
 
 If you have any questions about the repo, open an issue or contact me directly at stacked777@gmail.com. You can find more of my work at [Jennylc7](https://github.com/Jennylc7/).
 
+<<<<<<< HEAD
+=======
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+>>>>>>> 1c62175e18e712ed0672c8aba6e0e3571abefdc1
